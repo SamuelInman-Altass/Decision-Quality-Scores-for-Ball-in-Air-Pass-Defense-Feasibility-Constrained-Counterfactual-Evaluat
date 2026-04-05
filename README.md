@@ -1,6 +1,12 @@
-# Air-Traffic-Controller
-Decision quality scores for observed vs optimal post-throw defence
+# Decision Quality Scores for Ball-in-Air Pass Defense: Feasibility-Constrained Counterfactual Evaluation from NFL Player Tracking Data
 
-A link to the writeup and all files is available here: https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/air-traffic-controller.
+Link to the paper: 
 
-I am currently in the process of developing a related working paper for peer-reviewal and publication.
+
+
+
+## Initial Kaggle work:
+
+Ait Traffic Controller: Decision quality scores for observed vs optimal post-throw defence
+
+A link to the Kaggle writeup and all related files is available here: https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/air-traffic-controller.
